@@ -1,0 +1,49 @@
+.tipoa {
+    color: #679B9B;
+}
+.tipob {
+    color: #ffbabd;
+}
+.tipoc {
+    color: #ff9a76;
+}
+.tipod {
+    color: #637373;
+}
+.tipo1 {
+    background-color: #2a363b;
+}
+.tipo2 {
+    background-color: #ff847c;
+}
+.tipo3 {
+    background-color: #feceab;
+}
+.tipo4 {
+    background-color: #99b898;
+}
+.colorblanco{
+    background-color:antiquewhite;
+}
+#acercademi {
+    color: blue;
+    width: 40%;
+    text-align: center;
+
+}
+/* .imagenes {
+
+    background-color: #f5f5f5;
+    border: 1px solid #999999;} */
+.imagenes img {
+       padding: 10px;
+       border: 1px solid #999999;
+}
+
+
+
+
+
+
+
+
